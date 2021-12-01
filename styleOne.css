@@ -1,0 +1,29 @@
+div#header {
+    background-color: rgb(237, 237, 243);
+    height: 100px;
+    text-align: center;
+    
+    }
+    div#main {
+    border: solid 3px blue;
+    margin-left: 180px;
+    min-height: 295px;
+    }
+    div#sidebar {
+    background-color: rgb(218, 224, 224);
+    width: 180px;
+    position: absolute;
+    top:180px;
+    min-height: 300px;
+    }
+        
+    div#footer {
+    border: 2px solid rgb(54, 52, 52);
+    min-height: 100px;
+   
+    }
+
+     .callback-btn{
+        text-emphasis-style: bold;
+        text-emphasis-color: red;
+    }
